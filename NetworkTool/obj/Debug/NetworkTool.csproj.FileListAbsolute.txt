@@ -1,0 +1,15 @@
+C:\Users\seanh\Desktop\Project\NetworkTool\NetworkTool\bin\Debug\NetworkTool.exe.config
+C:\Users\seanh\Desktop\Project\NetworkTool\NetworkTool\bin\Debug\NetworkTool.exe
+C:\Users\seanh\Desktop\Project\NetworkTool\NetworkTool\bin\Debug\NetworkTool.pdb
+C:\Users\seanh\Desktop\Project\NetworkTool\NetworkTool\obj\Debug\MainWindow.g.cs
+C:\Users\seanh\Desktop\Project\NetworkTool\NetworkTool\obj\Debug\App.g.cs
+C:\Users\seanh\Desktop\Project\NetworkTool\NetworkTool\obj\Debug\NetworkTool_MarkupCompile.cache
+C:\Users\seanh\Desktop\Project\NetworkTool\NetworkTool\obj\Debug\NetworkTool_MarkupCompile.lref
+C:\Users\seanh\Desktop\Project\NetworkTool\NetworkTool\obj\Debug\MainWindow.baml
+C:\Users\seanh\Desktop\Project\NetworkTool\NetworkTool\obj\Debug\NetworkTool.g.resources
+C:\Users\seanh\Desktop\Project\NetworkTool\NetworkTool\obj\Debug\NetworkTool.Properties.Resources.resources
+C:\Users\seanh\Desktop\Project\NetworkTool\NetworkTool\obj\Debug\NetworkTool.csproj.GenerateResource.Cache
+C:\Users\seanh\Desktop\Project\NetworkTool\NetworkTool\obj\Debug\NetworkTool.csproj.CoreCompileInputs.cache
+C:\Users\seanh\Desktop\Project\NetworkTool\NetworkTool\obj\Debug\NetworkTool.exe
+C:\Users\seanh\Desktop\Project\NetworkTool\NetworkTool\obj\Debug\NetworkTool.pdb
+C:\Users\seanh\Desktop\Project\NetworkTool\NetworkTool\obj\Debug\NetworkTool.csprojAssemblyReference.cache

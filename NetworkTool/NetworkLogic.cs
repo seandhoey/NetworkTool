@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Net.Http;
@@ -186,8 +184,7 @@ namespace NetworkTool
             IPAddress address;
             try
             {
-                IPAddress[] addresses = Dns.GetHostAddresses(ipAddress);
-                address = addresses[0];
+                address = Dns.GetHostAddresses(ipAddress)[0];
             }
             catch
             {
